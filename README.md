@@ -10,4 +10,5 @@ Barchart displays and ranks the average annual RGDP per capita growth rate of al
 
 
 Data: Excel file includes all countries' real GDP data from Penn World Table.
+
 Libraries: pandas, openpyxl, seaborn, and matplotlib
