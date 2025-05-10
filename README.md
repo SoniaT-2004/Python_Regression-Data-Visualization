@@ -1,4 +1,4 @@
-This project performs a time series analysis for each (Europe) OECD country from to 2000 to 2019
+This project performs a time series analysis for each (Europe) OECD country from to 2000 to 2019.
 - Independent variable: year
 - Dependent variable: natural log of RGDP per capita of a country
 
